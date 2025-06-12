@@ -1,4 +1,9 @@
-# 🔔 Padrão de Projeto Observer em Java
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-Observer%20Pattern-blue?style=for-the-badge&logo=java&logoColor=white" alt="Java Observer Pattern">
+</p>
+<p align="center">
+  <h1 align="center">🔔 Padrão de Projeto Observer em Java</h1>
+</p>
 
 Este projeto demonstra a implementação do padrão de projeto **Observer** utilizando a linguagem **Java**. O objetivo é simular um sistema onde múltiplos observadores são notificados automaticamente sempre que o objeto observado sofre alguma alteração de estado.
 
@@ -25,12 +30,8 @@ O sistema simula promoções de um produto (ex: notebooks) e notifica os observa
 ```bash
 Objeto (0) notificador
 Nova informação recebida: PROMOÇÃO: notebook gamer R$ 4.000,00
-Objeto (1) notificador
-Nova informação recebida: PROMOÇÃO: notebook gamer R$ 4.000,00
 
 Objeto (0) notificador
-Nova informação recebida: PROMOÇÃO: notebook gamer R$ 3.200,00
-Objeto (1) notificador
 Nova informação recebida: PROMOÇÃO: notebook gamer R$ 3.200,00
 
 Objeto (0) notificador
