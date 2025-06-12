@@ -1,8 +1,3 @@
-Claro, Márcio! Aqui está um modelo de `README.md` simples e bem estruturado para você postar esse projeto do padrão **Observer** no GitHub:
-
----
-
-````markdown
 # 🔔 Padrão de Projeto Observer em Java
 
 Este projeto demonstra a implementação do padrão de projeto **Observer** utilizando a linguagem **Java**. O objetivo é simular um sistema onde múltiplos observadores são notificados automaticamente sempre que o objeto observado sofre alguma alteração de estado.
